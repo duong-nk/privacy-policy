@@ -1,0 +1,15 @@
+*.js
+*.sh
+
+node_modules/
+.env
+
+package-lock.json
+package.json
+
+countries.json
+playlists.json
+playlist-detail.json
+
+hieudinhapp
+hieudinhapp.pub

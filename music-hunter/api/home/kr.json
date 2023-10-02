@@ -1,0 +1,422 @@
+{
+	"topSongs": {
+		"name": "인기곡",
+		"songs": [
+			{
+				"id": "EIz09kLzN9k",
+				"title": "AKMU - ‘Love Lee’ M/V",
+				"channelTitle": "AKMU",
+				"channelId": "UCIcXK1CI8URMIqNO_1cehiQ",
+				"publishedAt": "2023-08-21T09:00:10Z",
+				"duration": "PT3M25S",
+				"viewCount": "13923277"
+			},
+			{
+				"id": "3kGAlp_PNUg",
+				"title": "AKMU - ‘후라이의 꿈’ SPECIAL LYRIC VIDEO",
+				"channelTitle": "AKMU",
+				"channelId": "UCIcXK1CI8URMIqNO_1cehiQ",
+				"publishedAt": "2023-08-21T09:00:02Z",
+				"duration": "PT3M27S",
+				"viewCount": "5258144"
+			},
+			{
+				"id": "iUw3LPM7OBU",
+				"title": "RIIZE 라이즈 'Get A Guitar' MV",
+				"channelTitle": "SMTOWN",
+				"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+				"publishedAt": "2023-09-04T09:00:24Z",
+				"duration": "PT2M54S",
+				"viewCount": "26227376"
+			},
+			{
+				"id": "QU9c0053UAU",
+				"title": "정국 (Jung Kook) 'Seven (feat. Latto)' Official MV",
+				"channelTitle": "HYBE LABELS",
+				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
+				"publishedAt": "2023-07-14T04:00:00Z",
+				"duration": "PT3M47S",
+				"viewCount": "236481240"
+			},
+			{
+				"id": "_Hu4GYtye5U",
+				"title": "IVE 아이브 'Either Way’ MV",
+				"channelTitle": "starshipTV",
+				"channelId": "UCYDmx2Sfpnaxg488yBpZIGg",
+				"publishedAt": "2023-09-25T09:00:04Z",
+				"duration": "PT3M58S",
+				"viewCount": "13887856"
+			},
+			{
+				"id": "jOTfBlKSQYY",
+				"title": "NewJeans (뉴진스) 'ETA' Official MV",
+				"channelTitle": "HYBE LABELS",
+				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
+				"publishedAt": "2023-07-21T03:58:10Z",
+				"duration": "PT3M37S",
+				"viewCount": "40609596"
+			},
+			{
+				"id": "ArmDp-zijuc",
+				"title": "NewJeans (뉴진스) 'Super Shy' Official MV",
+				"channelTitle": "HYBE LABELS",
+				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
+				"publishedAt": "2023-07-07T03:58:10Z",
+				"duration": "PT3M21S",
+				"viewCount": "97873526"
+			},
+			{
+				"id": "mev609MxcRE",
+				"title": "BIG Naughty (서동현) - Vancouver 2 (Official Video)",
+				"channelTitle": "H1GHR MUSIC",
+				"channelId": "UC6TJkBRLMFJ-9c7pXehoZwg",
+				"publishedAt": "2023-09-20T02:02:23Z",
+				"duration": "PT4M6S",
+				"viewCount": "562170"
+			},
+			{
+				"id": "_GgIt2EFHV8",
+				"title": "JEON SOMI (전소미) - ‘Fast Forward’ M/V",
+				"channelTitle": "THEBLACKLABEL",
+				"channelId": "UCg8ZzloDPTrOiGztK0C9txQ",
+				"publishedAt": "2023-08-07T09:00:12Z",
+				"duration": "PT3M20S",
+				"viewCount": "58037557"
+			},
+			{
+				"id": "ZwXzaqzRVi4",
+				"title": "Smoke (Prod. Dynamicduo, Padi)",
+				"channelTitle": "Dynamicduo - Topic",
+				"channelId": "UC0RmG5tT5r05BDBlW55i-pA",
+				"publishedAt": "2023-09-05T09:00:23Z",
+				"duration": "PT3M30S",
+				"viewCount": "12572090"
+			},
+			{
+				"id": "97_-_WugRFA",
+				"title": "BOYNEXTDOOR (보이넥스트도어) '뭣 같아' Official MV",
+				"channelTitle": "HYBE LABELS",
+				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
+				"publishedAt": "2023-09-04T08:59:08Z",
+				"duration": "PT3M1S",
+				"viewCount": "30833213"
+			},
+			{
+				"id": "11cta61wi0g",
+				"title": "NewJeans (뉴진스) 'Hype Boy' Official MV (Performance ver.1)",
+				"channelTitle": "HYBE LABELS",
+				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
+				"publishedAt": "2022-08-18T09:00:01Z",
+				"duration": "PT2M58S",
+				"viewCount": "132894516"
+			},
+			{
+				"id": "gvXsmI3Gdq8",
+				"title": "NCT U 엔시티 유 'Baggy Jeans' MV",
+				"channelTitle": "SMTOWN",
+				"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+				"publishedAt": "2023-08-28T09:00:19Z",
+				"duration": "PT3M38S",
+				"viewCount": "36410812"
+			},
+			{
+				"id": "m4_9TFeMfJE",
+				"title": "Doja Cat - Paint The Town Red (Official Video)",
+				"channelTitle": "dojacatVEVO",
+				"channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
+				"publishedAt": "2023-08-04T04:00:33Z",
+				"duration": "PT4M56S",
+				"viewCount": "73050628"
+			},
+			{
+				"id": "6ZUIwj3FgUY",
+				"title": "IVE 아이브 'I AM' MV",
+				"channelTitle": "starshipTV",
+				"channelId": "UCYDmx2Sfpnaxg488yBpZIGg",
+				"publishedAt": "2023-04-10T09:00:10Z",
+				"duration": "PT3M5S",
+				"viewCount": "166787294"
+			},
+			{
+				"id": "kcelgrGY1h8",
+				"title": "NewJeans (뉴진스) 'New Jeans' Official MV",
+				"channelTitle": "HYBE LABELS",
+				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
+				"publishedAt": "2023-07-06T15:00:01Z",
+				"duration": "PT3M31S",
+				"viewCount": "20203990"
+			},
+			{
+				"id": "SrQzxD8UFdM",
+				"title": "박재정 - 헤어지자 말해요 / Kpop / Lyrics / 가사",
+				"channelTitle": "NN Music",
+				"channelId": "UCM046A_jnoUK36hiWVwUR2w",
+				"publishedAt": "2023-04-20T09:07:28Z",
+				"duration": "PT4M4S",
+				"viewCount": "5905693"
+			},
+			{
+				"id": "SlPhMPnQ58k",
+				"title": "Maroon 5 - Memories (Official Video)",
+				"channelTitle": "Maroon5VEVO",
+				"channelId": "UCN1hnUccO4FD5WfM7ithXaw",
+				"publishedAt": "2019-10-08T14:00:10Z",
+				"duration": "PT3M16S",
+				"viewCount": "969960889"
+			},
+			{
+				"id": "DwuJeGYlYyw",
+				"title": "Lauv - Steal The Show (From \"Elemental\")",
+				"channelTitle": "DisneyMusicVEVO",
+				"channelId": "UCgwv23FVv3lqh567yagXfNg",
+				"publishedAt": "2023-06-30T17:00:11Z",
+				"duration": "PT3M13S",
+				"viewCount": "56332727"
+			},
+			{
+				"id": "Os_heh8vPfs",
+				"title": "aespa 에스파 'Spicy' MV",
+				"channelTitle": "SMTOWN",
+				"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+				"publishedAt": "2023-05-08T08:59:11Z",
+				"duration": "PT3M25S",
+				"viewCount": "112104953"
+			},
+			{
+				"id": "XpDEEnZQxNU",
+				"title": "[CHOREOGRAPHY] 정국 (Jung Kook) '3D (feat. Jack Harlow)’ Dance Practice",
+				"channelTitle": "BANGTANTV",
+				"channelId": "UCLkAepWjdylmXSltofFvsYQ",
+				"publishedAt": "2023-10-01T10:00:49Z",
+				"duration": "PT2M53S",
+				"viewCount": "1809110"
+			},
+			{
+				"id": "sVTy_wmn5SU",
+				"title": "NewJeans (뉴진스) 'OMG' Official MV (Performance ver.1)",
+				"channelTitle": "HYBE LABELS",
+				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
+				"publishedAt": "2023-01-03T11:30:01Z",
+				"duration": "PT3M40S",
+				"viewCount": "169313986"
+			},
+			{
+				"id": "NaIRQ5v0914",
+				"title": "KISS OF LIFE (키스오브라이프) 'Sugarcoat (NATTY Solo)' MV",
+				"channelTitle": "KISS OF LIFE",
+				"channelId": "UCvEEeBssb4XxIfWWIB8IjMw",
+				"publishedAt": "2023-06-18T15:00:00Z",
+				"duration": "PT3M53S",
+				"viewCount": "5366384"
+			},
+			{
+				"id": "jNYVbmVIP4A",
+				"title": "D.O. 디오 'Somebody' MV",
+				"channelTitle": "SMTOWN",
+				"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+				"publishedAt": "2023-09-18T08:59:09Z",
+				"duration": "PT4M31S",
+				"viewCount": "3231862"
+			},
+			{
+				"id": "nfs8NYg7yQM",
+				"title": "Charlie Puth - Attention [Official Video]",
+				"channelTitle": "Charlie Puth",
+				"channelId": "UCwppdrjsBPAZg5_cUwQjfMQ",
+				"publishedAt": "2017-04-24T17:00:05Z",
+				"duration": "PT3M52S",
+				"viewCount": "1528107152"
+			},
+			{
+				"id": "5f2AFS6PgEs",
+				"title": "[온스테이지2.0] 너드커넥션(Nerd Connection) - 좋은 밤 좋은 꿈",
+				"channelTitle": "온스테이지ONSTAGE",
+				"channelId": "UCACti7fagQ5OH_47IaWwpPQ",
+				"publishedAt": "2020-07-02T02:00:01Z",
+				"duration": "PT4M38S",
+				"viewCount": "2812945"
+			},
+			{
+				"id": "dZs_cLHfnNA",
+				"title": "LE SSERAFIM (르세라핌) ‘이브, 프시케 그리고 푸른 수염의 아내’ OFFICIAL M/V",
+				"channelTitle": "HYBE LABELS",
+				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
+				"publishedAt": "2023-05-23T14:58:08Z",
+				"duration": "PT3M48S",
+				"viewCount": "62993442"
+			},
+			{
+				"id": "hb73cGFLzKk",
+				"title": "aespa 에스파 'Better Things' Performance Video",
+				"channelTitle": "aespa",
+				"channelId": "UC9GtSLeksfK4yuJ_g1lgQbg",
+				"publishedAt": "2023-08-26T09:00:34Z",
+				"duration": "PT3M25S",
+				"viewCount": "3815982"
+			},
+			{
+				"id": "pRfmrE0ToTo",
+				"title": "Anne-Marie & James Arthur - Rewrite The Stars [from The Greatest Showman: Reimagined]",
+				"channelTitle": "Anne-Marie",
+				"channelId": "UCBL7ZxVX4GvW4CFiES_-0YA",
+				"publishedAt": "2018-11-16T14:00:21Z",
+				"duration": "PT3M48S",
+				"viewCount": "493228878"
+			},
+			{
+				"id": "kKsivrgoyDw",
+				"title": "NewJeans (뉴진스) 'Cool With You' Official MV (Performance ver.)",
+				"channelTitle": "HYBE LABELS",
+				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
+				"publishedAt": "2023-07-20T15:00:02Z",
+				"duration": "PT2M28S",
+				"viewCount": "9542671"
+			},
+			{
+				"id": "Crq_fRV0O0E",
+				"title": "화사 (HWASA) - 'I Love My Body' MV",
+				"channelTitle": "HWASA",
+				"channelId": "UCiM8arBZ-GyuBFG3wy6fEgw",
+				"publishedAt": "2023-09-06T09:00:07Z",
+				"duration": "PT2M42S",
+				"viewCount": "27644841"
+			},
+			{
+				"id": "m3DZsBw5bnE",
+				"title": "AKMU - '어떻게 이별까지 사랑하겠어, 널 사랑하는 거지(How can I love the heartbreak, you`re the one I love)' M/V",
+				"channelTitle": "AKMU",
+				"channelId": "UCIcXK1CI8URMIqNO_1cehiQ",
+				"publishedAt": "2019-09-25T09:00:06Z",
+				"duration": "PT4M56S",
+				"viewCount": "41863615"
+			},
+			{
+				"id": "7HDeem-JaSY",
+				"title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' Official Music Video",
+				"channelTitle": "(G)I-DLE (여자)아이들 (Official YouTube Channel)",
+				"channelId": "UCritGVo7pLJLUS8wEu32vow",
+				"publishedAt": "2023-05-15T09:00:04Z",
+				"duration": "PT3M31S",
+				"viewCount": "241316311"
+			},
+			{
+				"id": "5C-UzW1FLiA",
+				"title": "Trip (Feat. Hannah)",
+				"channelTitle": "Leellamarz - Topic",
+				"channelId": "UCoV8L_tyJqZoRh51f-2ylhQ",
+				"publishedAt": "2018-09-10T03:12:58Z",
+				"duration": "PT3M54S",
+				"viewCount": "11904173"
+			},
+			{
+				"id": "5g4KsIizYhQ",
+				"title": "잔나비 (JANNABI) - 주저하는 연인들을 위해 (For Lovers Who Hesitate) | 가사",
+				"channelTitle": "Hello, My Music Player",
+				"channelId": "UCoMDPTbC_7aTEWy0D80oO_Q",
+				"publishedAt": "2020-01-25T05:22:49Z",
+				"duration": "PT4M26S",
+				"viewCount": "13079777"
+			},
+			{
+				"id": "ZRtdQ81jPUQ",
+				"title": "YOASOBI「アイドル」 Official Music Video",
+				"channelTitle": "Ayase / YOASOBI",
+				"channelId": "UCvpredjG93ifbCP1Y77JyFA",
+				"publishedAt": "2023-04-12T15:30:09Z",
+				"duration": "PT3M46S",
+				"viewCount": "330448964"
+			},
+			{
+				"id": "5vmJ_wq2NeA",
+				"title": "D.O. 디오 '별 떨어진다 (I Do)' MV",
+				"channelTitle": "SMTOWN",
+				"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+				"publishedAt": "2023-09-08T09:00:02Z",
+				"duration": "PT2M48S",
+				"viewCount": "3228190"
+			},
+			{
+				"id": "Ejc__vhP2U8",
+				"title": "DAY6(데이식스)- 예뻤어 [가사/Lyrics]",
+				"channelTitle": "웅키",
+				"channelId": "UCoBcjaSab_CLwBOKe-8Fvjw",
+				"publishedAt": "2023-01-30T09:00:13Z",
+				"duration": "PT4M44S",
+				"viewCount": "1569664"
+			},
+			{
+				"id": "UBURTj20HXI",
+				"title": "LE SSERAFIM (르세라핌) 'UNFORGIVEN (feat. Nile Rodgers)' OFFICIAL M/V",
+				"channelTitle": "HYBE LABELS",
+				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
+				"publishedAt": "2023-05-01T08:58:10Z",
+				"duration": "PT4M20S",
+				"viewCount": "101929225"
+			},
+			{
+				"id": "dJdqn5v4Dkw",
+				"title": "NewJeans (뉴진스) 'ASAP' Official MV",
+				"channelTitle": "HYBE LABELS",
+				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
+				"publishedAt": "2023-07-25T15:00:02Z",
+				"duration": "PT2M21S",
+				"viewCount": "16031422"
+			},
+			{
+				"id": "DYz-LjtiVOc",
+				"title": "[MV] Dynamic Duo, DJ Premier(다이나믹듀오, 디제이 프리미어) _ AEAO",
+				"channelTitle": "1theK (원더케이)",
+				"channelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw",
+				"publishedAt": "2014-07-16T03:00:01Z",
+				"duration": "PT5M18S",
+				"viewCount": "5121595"
+			},
+			{
+				"id": "pG6iaOMV46I",
+				"title": "IVE 아이브 'Kitsch' MV",
+				"channelTitle": "starshipTV",
+				"channelId": "UCYDmx2Sfpnaxg488yBpZIGg",
+				"publishedAt": "2023-03-27T09:00:35Z",
+				"duration": "PT3M22S",
+				"viewCount": "95649410"
+			},
+			{
+				"id": "WbhK3wMXluE",
+				"title": "Yerin Baek(백예린) \"Bye bye my blue\" M/V",
+				"channelTitle": "JYP Entertainment",
+				"channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+				"publishedAt": "2016-06-19T15:00:11Z",
+				"duration": "PT3M27S",
+				"viewCount": "14050812"
+			},
+			{
+				"id": "hLZoTdxBudA",
+				"title": "[여름날 우리] 로이킴 - 잘 지내자, 우리 M/V",
+				"channelTitle": "TOON STUDIO",
+				"channelId": "UCve0b6qhfxTpKeqzZ4u0MjQ",
+				"publishedAt": "2023-07-06T08:58:08Z",
+				"duration": "PT4M19S",
+				"viewCount": "390332"
+			},
+			{
+				"id": "kaUuyO-D4XE",
+				"title": "BIG Naughty (서동현) - 사랑이라 믿었던 것들은 (Hopeless Romantic) (Feat. 이수현) (Official Video)",
+				"channelTitle": "H1GHR MUSIC",
+				"channelId": "UC6TJkBRLMFJ-9c7pXehoZwg",
+				"publishedAt": "2023-02-28T10:00:20Z",
+				"duration": "PT4M8S",
+				"viewCount": "1036986"
+			},
+			{
+				"id": "lE2dDnIL6QM",
+				"title": "Click Like (Prod. Crush) (Feat. Paul Blanco)",
+				"channelTitle": "Crush - Topic",
+				"channelId": "UCt0DL6mxwl5As1B5eFJO2tQ",
+				"publishedAt": "2023-09-05T09:00:35Z",
+				"duration": "PT2M46S",
+				"viewCount": "3542219"
+			}
+		],
+		"updatedAt": "10022023"
+	}
+}
