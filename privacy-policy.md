@@ -1,5 +1,5 @@
 
-# Privacy Policy
+# Message Pro - Color Message Privacy Policy
 
 This privacy policy describes how we collect, use, and share data when you use our mobile application. By using our app, you agree to the collection and use of your information as described in this policy.
 
