@@ -4,25 +4,6 @@
 This privacy policy describes how we collect, use, and share data when you use our mobile application. By using our app, you agree to the collection and use of your information as described in this policy.
 
 ### 1 Data Collection
-
-1.1. We use the "Send & Receive SMS" permission for the main purpose of the app, which is to send and receive messages, in addition, we collect the message content only for the purpose of displaying the message, and commit to using nothing other than display.
-
-1.2. We may use your phone number for the purpose of using the service, such as knowing the phone number you sent and received, and your sim number (in case your phone has 2 sims).
-
-1.3. We take a list of phone numbers in your contacts for the purpose of showing friends, allowing you to choose which contacts you want to send SMS/MMS messages to.
-
-1.4.  We do not store the content of your messages or any of your contact information on our servers.
-
-1.5. We use your information to communicate with you, to ensure our services are working as intended, to make improvements to our services, to develop our business, and to protect against fraud and spam.
-
-1.6. We provide the information we collect to third parties, such as advertisers, in order to provide you with commercial advertisements. The provision of such information generates revenue to pay in part or in whole for the Services. We do not provide personal information to third parties except for billing purposes.
-
-1.7. We DO NOT collect, store, or use any personal information while you visit, download, or upgrade our products.
-
-1.8. We may use personal information submitted by you only for the following purposes: help us develop, share, and improve our products and services and supply higher quality service.
-
-1.9. We collect information about how you use our app, including details about the pages you visit and the duration of your visits. Additionally, we gather information about your device, such as its model, operating system, and unique device identifier.
-
 We utilize several main third-party services, including:
 
 - Google Mobile Ads
